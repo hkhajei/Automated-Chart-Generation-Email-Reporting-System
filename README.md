@@ -35,14 +35,14 @@ project/
 
 ## 🔧 Installation & Setup
 
-### ** 1⃣ Clone the Repository**
+### **1. Clone the Repository**
 
 ```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 ```
 
-### ** 2⃣ Install Dependencies**
+### **2. Install Dependencies**
 
 Ensure you have Python installed, then install the required libraries:
 
@@ -50,7 +50,7 @@ Ensure you have Python installed, then install the required libraries:
 pip install matplotlib pandas openpyxl smtplib zipfile
 ```
 
-### ** 3⃣ Create Sample Address Book**
+### **3. 3⃣ Create Sample Address Book**
 
 If the `data/email_address_book.xlsx` file does not exist, run:
 
@@ -64,7 +64,7 @@ python scripts/create_email_book.py
 
 ## 📊 Usage
 
-### ** 1⃣ Generate Charts**
+### **1. Generate Charts**
 
 ```bash
 python scripts/generate_charts.py
@@ -72,7 +72,7 @@ python scripts/generate_charts.py
 
 - This will create category-based PDF reports inside the `output/` directory.
 
-### ** 2⃣ Send Emails**
+### **2. Send Emails**
 
 ```bash
 python scripts/send_email.py
@@ -82,7 +82,7 @@ python scripts/send_email.py
 - Zips related files
 - Sends emails with attachments
 
-### ** 3⃣ Run Everything**
+### **3. Run Everything**
 
 ```bash
 python main.py
