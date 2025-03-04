@@ -50,7 +50,7 @@ Ensure you have Python installed, then install the required libraries:
 pip install matplotlib pandas openpyxl smtplib zipfile
 ```
 
-### **3. 3⃣ Create Sample Address Book**
+### **3. Create Sample Address Book**
 
 If the `data/email_address_book.xlsx` file does not exist, run:
 
