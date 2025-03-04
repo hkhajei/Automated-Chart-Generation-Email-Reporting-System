@@ -36,8 +36,8 @@ project/
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/hkhajei/Automated-Chart-Generation-Email-Reporting-System.git
+cd Automated-Chart-Generation-Email-Reporting-System
 ```
 
 ### **2. Install Dependencies**
