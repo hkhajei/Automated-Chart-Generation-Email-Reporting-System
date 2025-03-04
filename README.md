@@ -35,14 +35,14 @@ project/
 
 ## 🔧 Installation & Setup
 
-### **1⃣ Clone the Repository**
+### ** 1⃣ Clone the Repository**
 
 ```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 ```
 
-### **2⃣ Install Dependencies**
+### ** 2⃣ Install Dependencies**
 
 Ensure you have Python installed, then install the required libraries:
 
@@ -50,7 +50,7 @@ Ensure you have Python installed, then install the required libraries:
 pip install matplotlib pandas openpyxl smtplib zipfile
 ```
 
-### **3⃣ Create Sample Address Book**
+### ** 3⃣ Create Sample Address Book**
 
 If the `data/email_address_book.xlsx` file does not exist, run:
 
@@ -64,7 +64,7 @@ python scripts/create_email_book.py
 
 ## 📊 Usage
 
-### **1⃣ Generate Charts**
+### ** 1⃣ Generate Charts**
 
 ```bash
 python scripts/generate_charts.py
@@ -72,7 +72,7 @@ python scripts/generate_charts.py
 
 - This will create category-based PDF reports inside the `output/` directory.
 
-### **2⃣ Send Emails**
+### ** 2⃣ Send Emails**
 
 ```bash
 python scripts/send_email.py
@@ -82,7 +82,7 @@ python scripts/send_email.py
 - Zips related files
 - Sends emails with attachments
 
-### **3⃣ Run Everything**
+### ** 3⃣ Run Everything**
 
 ```bash
 python main.py
@@ -100,12 +100,6 @@ python main.py
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🤝 Contributing
 
 Feel free to contribute! Open issues, submit PRs, or share suggestions.
@@ -116,6 +110,6 @@ Feel free to contribute! Open issues, submit PRs, or share suggestions.
 
 For questions or feedback, reach out at:
 
-- **Email**: [your-email@example.com](mailto\:your-email@example.com)
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: [h.khajei@gmail.com](mailto\:.khajei@gmail.com)
+- **GitHub**: [hkhajei](https://github.com/hkhajei)
 
