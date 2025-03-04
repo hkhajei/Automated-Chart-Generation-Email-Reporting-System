@@ -19,11 +19,9 @@ project/
 │️   └️── email_address_book.xlsx   # Excel file with recipient details
 │️── output/                       # Generated PDF reports by category
 │️   ├️── AC/
-│️   │️   ├️── outliers.pdf
-│️   │️   └️── trends.pdf
+│️   │️   └️── outliers.pdf
 │️   ├️── HP/
-│️   │️   ├️── outliers.pdf
-│️   │️   └️── trends.pdf
+│️   │️   └️── outliers.pdf
 │️── scripts/
 │️   ├️── generate_charts.py        # Generates charts and saves PDFs
 │️   └️── send_email.py             # Handles email sending with attachments
